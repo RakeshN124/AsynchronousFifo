@@ -12,8 +12,8 @@ The primary purpose of an asynchronous FIFO is to buffer data temporarily betwee
 
  
       
-   ![general approach of FIFO design](https://github.com/RakeshN124/AsynchronousFifo/assets/33099414/a9be74cc-df36-4901-9ffc-7120559aa33a)
-
+   
+  ![general approach of FIFO design](https://github.com/RakeshN124/AsynchronousFifo/assets/33099414/bc36bb19-8412-4b46-b066-b9ef3bb5656e)
 
 
 
